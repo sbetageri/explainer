@@ -7,5 +7,9 @@ requires-python = ">=3.12"
 dependencies = [
     "jupyter>=1.1.1",
     "lab>=8.5",
+    "openai>=2.8.0",
     "playwright>=1.56.0",
+    "strands-agents[anthropic]>=1.16.0",
+    "strands-agents-tools>=0.2.15",
+    "python-dotenv>=1.2.1",
 ]
