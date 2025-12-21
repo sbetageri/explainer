@@ -1,7 +1,5 @@
 # Explainer.sh
 
-Proof of Concept to build an agent that can build a complete explainer video based on access to the platform, 
-documentation and custom agents.
+Proof of Concept to build an agent that can build complete and up to date documentation for a given code base. 
 
-The explainer videos will have voice-overs explaining what is happening. Along with that, the explainer video will also have complete visibility
-into the actions that the user has performed. 
+Once that is done, the next step will be in maintaining live documentation, in accordance with other docs, slack and other related messages. A single pane of truth so to speak.
