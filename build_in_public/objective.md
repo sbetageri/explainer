@@ -1,1 +1,3 @@
-To build a set of agents that help you understand a large codebase quickly
+To build a tool that will allow you to query documentation and github issues.
+
+A simple RAG pipeline
