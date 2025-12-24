@@ -6,6 +6,10 @@ dist/
 wheels/
 *.egg-info
 
+# Ignoring working dir
+working_dir/
+screenshots/
+
 # Virtual environments
 .venv
 
