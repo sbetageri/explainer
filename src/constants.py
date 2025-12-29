@@ -1,0 +1,25 @@
+SONNET = "claude-sonnet-4-5"
+HAIKU = "claude-haiku-4-5"
+
+USER = "user"
+ASSISTANT = "assistant"
+ROLE = "role"
+CONTENT = "content"
+NAME = "name"
+BROWSER = "browser"
+TOOL_USE = "toolUse"
+INPUT = "input"
+BROWSER_INPUT = "browser_input"
+ACTION = "action"
+SESSION_NAME = "session_name"
+TYPE = "type"
+EVALUATE = "evaluate"
+SCRIPT = "script"
+
+TEXT = "text"
+
+ANTHROPIC_API_KEY = "anthropic_api_key"
+HEADLESS = "headless"
+
+HTML = "html"
+MD = "md"

@@ -9,6 +9,7 @@ wheels/
 # Ignoring working dir
 working_dir/
 screenshots/
+notebooks/
 
 # Virtual environments
 .venv
